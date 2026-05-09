@@ -129,3 +129,4 @@ C:\Users\itume\Downloads\KasiCuts\backend\KasiCuts.Api\obj\Debug\net9.0\refint\K
 C:\Users\itume\Downloads\KasiCuts\backend\KasiCuts.Api\obj\Debug\net9.0\KasiCuts.Api.pdb
 C:\Users\itume\Downloads\KasiCuts\backend\KasiCuts.Api\obj\Debug\net9.0\KasiCuts.Api.genruntimeconfig.cache
 C:\Users\itume\Downloads\KasiCuts\backend\KasiCuts.Api\obj\Debug\net9.0\ref\KasiCuts.Api.dll
+C:\Users\itume\Downloads\KasiCuts\backend\KasiCuts.Api\obj\Debug\net9.0\KasiCuts.Api.sourcelink.json

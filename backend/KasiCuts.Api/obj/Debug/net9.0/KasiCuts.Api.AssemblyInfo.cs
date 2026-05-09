@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KasiCuts.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+803df907b46411f9ee952473e4e40e8a13d27054")]
 [assembly: System.Reflection.AssemblyProductAttribute("KasiCuts.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KasiCuts.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
