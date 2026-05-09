@@ -5,7 +5,7 @@ import 'package:http/http.dart' as http;
 import '../models/barber_work.dart';
 
 class ApiService {
-  static const String baseUrl = 'http://localhost:5051/api';
+ static const String baseUrl = 'https://ipsbarber.onrender.com/api';
 static Future<List<Product>> getProducts() async {
   final response = await http.get(
     Uri.parse('$baseUrl/Products'),
