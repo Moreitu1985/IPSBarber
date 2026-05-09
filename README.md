@@ -194,4 +194,5 @@ flutter run -d chrome
 
 # 📄 License
 
-This project was created for educational and portfolio purposes.
+This project was created for educational and portfolio purposes with the guideline of my friend to solve his booking system 
+.
